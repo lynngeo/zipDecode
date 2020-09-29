@@ -3,6 +3,4 @@
 # 使用前安装
 使用前需pip安装pyqt和unrar
 （文件中已提供）下载unrar library：http://www.rarlab.com/rar/UnRARDLL.exe 
-
-!(image)
-()
+![image]（https://github.com/lynngeo/zipDecode/blob/master/python_Pratice/1.jpg）
